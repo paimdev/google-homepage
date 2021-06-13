@@ -37,6 +37,14 @@ ul {
 
 form {
     text-align: center;
+    padding: 20px;
+}
+
+.search-bar {
+    width: 570px;
+    height: 35px;
+    border-radius: 15px;
+    border: solid rgb(189, 186, 186);
 }
 
 li {
