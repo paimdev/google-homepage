@@ -56,6 +56,27 @@ li {
     padding: 30px;
 }
 
+.google-search-button {
+    width: 150px;
+    height: 35px;
+    margin: 5px;
+    border-radius: 3px;
+    background-color: rgb(240, 240, 240);
+    border: rgb(240, 240, 240);
+    color: rgb(44, 44, 44);
+
+}
+
+.feeling-lucky-button {
+    width: 150px;
+    height: 35px;
+    margin: 5px;
+    border-radius: 3px;
+    background-color: rgb(240, 240, 240);
+    border: rgb(240, 240, 240);
+    color: rgb(44, 44, 44);
+}
+
 .offered-in {
     text-align: center;
     padding-bottom: 270px;
