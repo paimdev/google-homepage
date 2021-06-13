@@ -9,6 +9,23 @@ nav {
     padding: 20px 20px 0px 0px;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: none;
+}
+
 .navbar-list {
     float: left;
     font-size: 15px;
